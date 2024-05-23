@@ -26,6 +26,28 @@
       -->
     </div>
     <br/>
+
+    <style>
+      /* <summary> 버튼 스타일 */
+      summary {
+        display: block; /* 블록 레벨 요소로 만들어 가운데 정렬을 가능하게 함 */
+        text-align: center; /* 텍스트 가운데 정렬 */
+        cursor: pointer; /* 마우스 오버 시 커서 모양을 포인터로 변경 */
+        padding: 10px 20px; /* 내부 여백 추가 */
+        margin: 10px auto; /* 자동 마진으로 가운데 정렬 */
+        width: fit-content; /* 내용에 맞게 너비 조절 */
+        background-color: transparent; /* 배경색 투명 */
+        border: 2px solid white; /* 하얀색 윤곽선 */
+        border-radius: 5px; /* 윤곽선 둥글게 처리 */
+        color: white; /* 텍스트 색상 하얀색 */
+      }
+    
+      /* 클릭 시 및 포커스 시 스타일 */
+      summary:focus, summary:active {
+        outline: none; /* 포커스 시 외곽선 제거 */
+      }
+    </style>
+    
     <details>
     <summary>작가 알아보기</summary>
     <table style="width: 100%; border-collapse: collapse;">
@@ -33,7 +55,7 @@
         <td style="padding: 10px; text-align: center;">
             <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
         </td>
-        <td style="padding: 10px; color: 000000;">
+        <td style="padding: 10px; color: #000000;">
             <strong>이름/필명:</strong> 홍길동 <br/>
             <strong>소개:</strong> 자연과학을 좋아합니다. <br/>
             <strong>참여한 책:</strong> <img src="/img/portfolio/cake.png" alt="Profile Image" style="width: 20px; height: auto;"> 
@@ -43,7 +65,7 @@
         <td style="padding: 10px; text-align: center;">
             <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
         </td>
-        <td style="padding: 10px;" color: 000000;>
+        <td style="padding: 10px; color: #000000;">
             <strong>이름/필명:</strong> 홍길동 <br/>
             <strong>소개:</strong> 자연과학을 좋아합니다. <br/>
             <strong>참여한 책:</strong> <img src="/img/portfolio/cake.png" alt="Profile Image" style="width: 20px; height: auto;"> 
@@ -53,7 +75,7 @@
         <td style="padding: 10px; text-align: center;">
             <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
         </td>
-        <td style="padding: 10px;" color: 000000;>
+        <td style="padding: 10px; color: #000000;">
             <strong>이름/필명:</strong> 홍길동 <br/>
             <strong>소개:</strong> 자연과학을 좋아합니다. <br/>
             <strong>참여한 책:</strong> <img src="/img/portfolio/cake.png" alt="Profile Image" style="width: 20px; height: auto;"> 
