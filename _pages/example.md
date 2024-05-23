@@ -3,29 +3,17 @@ title: About Us
 permalink: /example/
 ---
 
-<div class="modal-body">
-<h2>Project 1</h2>
-<hr class="star-primary">
-<img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="image-alt">
-            
-<p>Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-            
-<ul class="list-inline item-details">
-              
-<li>Client:
-<strong>Start Bootstrap</strong>
-</li>              
-              
-<li>Date:
-<strong>April 2014</strong>
-</li>
-
-
-<li>Service:
-<strong>Web Development</strong>
-</li>
-
-</ul>
-<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
-Close</button>
+<div class="profile-section" style="text-align: center; padding: 20px;">
+    <img src="/img/profile.png" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
+    <h2>홍길동</h2>
+    <p>직업: 웹 개발자</p>
+    <p>소개: 홍길동은 혁신적인 웹 솔루션을 제공하는 데 특화된 경험 많은 개발자입니다. 현대적인 웹 기술을 사용하여 사용자 경험을 향상시키고 비즈니스 목표를 달성하는 데 중점을 둡니다.</p>
+    <div>
+        <a href="https://twitter.com/honggildong" target="_blank" style="margin-right: 10px;">
+            <img src="/img/twitter.png" alt="Twitter" style="width: 30px; height: auto;">
+        </a>
+        <a href="https://linkedin.com/in/honggildong" target="_blank">
+            <img src="/img/linkedin.png" alt="LinkedIn" style="width: 30px; height: auto;">
+        </a>
+    </div>
 </div>
