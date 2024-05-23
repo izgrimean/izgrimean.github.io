@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: 출판사 이즈그리민(izgrimean)
+email: pnueoje@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "This is izgrimean's personal portfolio site showcasing projects and blogs."
+keywords: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다."
+skills: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다."
+meta_author: 대표 박조은
 
 # Google webmaster tools
 google_verify:
