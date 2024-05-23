@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Part of Room 211 on the 2nd floor, used as an office, 
+  - line: 35, Buil-ro 191beon-gil, Wonmi-gu, Bucheon-si, Gyeonggi-do, Republic of Korea
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
@@ -69,3 +69,19 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+
+# I added (24.05.12)
+include:
+  - _pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
+  - jekyll-seo-tag
