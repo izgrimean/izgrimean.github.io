@@ -1,10 +1,10 @@
 # Site settings
-title: 출판사 이즈그리민(izgrimean)
+title: izgrimean
 email: pnueoje@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "This is izgrimean's personal portfolio site showcasing projects and blogs."
-keywords: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다."
-skills: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다."
+url: https://github.com/izgrimean/izgrimean.github.io
+description: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 합니다."
+keywords: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 합니다."
+skills: "글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 합니다."
 meta_author: 대표 박조은
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: izgrimean
   location: Location
   social: Around the Web
   credits: Credits
