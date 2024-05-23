@@ -50,19 +50,28 @@
       }
       /* 초기 숨김 스타일 */
       .image-container {
-        display: none; /* 초기에는 이미지를 숨깁니다. */
-        text-align: center; /* 이미지를 가운데 정렬합니다. */
-      }
+          display: none;
+          text-align: center;
+        }
       .image-container img {
         max-width: 100px; /* 최대 너비를 지정하여 이미지 크기를 일정하게 유지합니다. */
         margin-top: 10px; /* 상단 여백을 추가합니다. */
       }
+      .book-toggle {
+        display: inline-block;
+        padding: 5px 10px;
+        cursor: pointer;
+        background-color: transparent;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        color: #333;
+        text-decoration: none;
+      }
     </style>
     <script>
-      function toggleImages() {
-        var container = document.getElementById('bookImages');
-        // display 속성을 toggle 하여 컨테이너의 보이기/숨기기 상태를 변경합니다.
-        if (container.style.display === 'none') {
+      function toggleImagesFor(id) {
+        var container = document.getElementById(id);
+        if (container.style.display === 'none' || container.style.display === '') {
           container.style.display = 'block';
         } else {
           container.style.display = 'none';
@@ -71,104 +80,44 @@
     </script>
     
     <details>
-    <summary>작가 알아보기</summary>
-    <table style="width: 100%; border-collapse: collapse;">
-    <tr style="background-color: #faf8de;"> 
-        <td style="padding: 10px; text-align: center;">
-            <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
-        </td>
-        <td style="padding: 10px; color: #000000; line-height: 2;">
-            <strong>이름/필명</strong> ｜ 이은조 <br/>
-            <strong>소개</strong> ｜ 서울종합예술실용학교에서 디자인예술계열 시각디자인을 전공하며 학부 과정을 졸업했고, 그 이후에 일본의 교토예술대학교 대학원에서 만화를 연구하고 석사과정을 졸업했다. 글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다. <br/>
-            <strong>Instagram</strong> ｜ @pnueoje <br/>
-            <strong onclick="toggleImages()">참여한 책</strong><br/>
-            <!-- 이미지 스크롤 컨테이너 -->
-            <div class="image-container" id="bookImages">
-                <a target="_blank" rel="noopener" href="https://nate9389.tistory.com/315">
-                  <img src="/img/yuha.jpeg" alt="Profile Image" style="width: 100px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr style="background-color: #ffffff;"> 
-        <td style="padding: 10px; text-align: center;">
-            <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
-        </td>
-        <td style="padding: 10px; color: #000000; line-height: 2;">
-            <strong>이름/필명</strong> ｜ 박정빈 <br/>
-            <strong>소개</strong> ｜ 서울대학교에서 공학 및 경제학을 공부하였다. 그 이후에 서울대학원 석사를 졸업하고, 바이오택에서 근무하며 기술을 개발해 온 과학자이다. 그리고 더 넓은 세계로 나아가기 위한 도약을 준비 중이다. <br/>
-            <strong>Email</strong> ｜ nate9389@gmail.com <br/>
-            <strong onclick="toggleImages()">참여한 책</strong><br/>
-            <!-- 이미지 스크롤 컨테이너 -->
-              <div class="image-container" id="bookImages">
-                <a target="_blank" rel="noopener" href="https://nate9389.tistory.com/315">
-                  <img src="/img/yuha.jpeg" alt="Profile Image" style="width: 100px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <!-- 추가 이미지 -->
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-                <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
-                  <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto; display: inline;">
-                </a>
-              </div>
+<summary>작가 알아보기</summary>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #faf8de;">
+    <td style="padding: 10px; text-align: center;">
+      <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
+    </td>
+    <td style="padding: 10px; color: #000000; line-height: 2;">
+      <strong>이름/필명</strong> ｜ 이은조 <br/>
+      <strong>소개</strong> ｜ 서울종합예술실용학교에서 디자인예술계열 시각디자인을 전공하며 학부 과정을 졸업했고, 그 이후에 일본의 교토예술대학교 대학원에서 만화를 연구하고 석사과정을 졸업했다. 글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다. <br/>
+      <strong>Instagram</strong> ｜ @pnueoje <br/>
+      <strong class="book-toggle" onclick="toggleImagesFor('bookImages1')">참여한 책</strong><br/>
+      <div class="image-container" id="bookImages1">
+        <a target="_blank" rel="noopener" href="https://nate9389.tistory.com/315">
+          <img src="/img/yuha.jpeg" alt="Profile Image" style="width: 100px; height: auto;">
+        </a>
+        <a target="_blank" rel="noopener" href="https://jb243.github.io/pages/315">
+          <img src="/img/yuha_2.png" alt="Another Image" style="width: 89px; height: auto;">
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr style="background-color: #ffffff;">
+    <td style="padding: 10px; text-align: center;">
+      <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
+    </td>
+    <td style="padding: 10px; color: #000000; line-height: 2;">
+      <strong>이름/필명</strong> ｜ 박정빈 <br/>
+      <strong>소개</strong> ｜ 서울대학교에서 공학 및 경제학을 공부하였다. 그 이후에 서울대학원 석사를 졸업하고, 바이오택에서 근무하며 기술을 개발해 온 과학자이다. 그리고 더 넓은 세계로 나아가기 위한 도약을 준비 중이다. <br/>
+      <strong>Email</strong> ｜ nate9389@gmail.com <br/>
+      <strong class="book-toggle" onclick="toggleImagesFor('bookImages2')">참여한 책</strong><br/>
+      <div class="image-container" id="bookImages2">
+        <!-- 이곳에 각 이미지 링크 -->
+      </div>
+    </td>
+  </tr>
+</table>
+</details>
 
-        </td>
-    </tr>
-      <!--
-    <tr style="background-color: #faf8de;"> 
-        <td style="padding: 10px; text-align: center;">
-            <img src="/img/profile.png" alt="Profile Image" style="width: 100px; height: auto;">
-        </td>
-        <td style="padding: 10px; color: #000000;">
-            <strong>이름/필명:</strong> 홍길동 <br/>
-            <strong>소개:</strong> 자연과학을 좋아합니다. <br/>
-            <strong>참여한 책:</strong> <img src="/img/portfolio/cake.png" alt="Profile Image" style="width: 20px; height: auto;"> 
-        </td>
-    </tr>
-      -->
-  </table>
-  </details>
 
   </div>
 </section>
