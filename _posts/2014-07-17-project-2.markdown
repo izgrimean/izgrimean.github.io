@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+title1: New Book 2
+title2: Meteorite Hunter Yuha Jin Aqua Planet Edition
+date: 2024-05-03
 img: book2.jpeg
 alt: image-alt
-project-date: April 2014
+project-date: May 2014
 client: Readers
 category: E-book
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: ○ 이 책은 영어로 제작되었습니다. 한국어판은 '운석 사냥꾼 진유하 아쿠아 행성편'으로도 출판되어 있으니 참고 바랍니다.<br/><br/>…In the moment I was about to turn away, I suddenly felt a surge of curiosity stronger than fear. Wasn't becoming a meteorite hunter and choosing the path of adventure started by my desire to explore unknown worlds that no one else easily dared to? I remember my initial determination when I changed my course to choose this new profession. Having traveled the world and accumulated experiences over the past few years, I was not so frail as to turn away from such uncertain dangers. Ignoring my instinct to explore and turning my back felt wrong, as I strongly believed something tremendous was inside. Unintentionally, I turned my steps.<br/><br/>In the year 20XX in Korea, Yuha Jin is a ‘meteorite hunter’ who collects and sells meteorites. One day, after hearing a signal that a meteorite had fallen, Yuha and his AI assistant, Frimal, headed to the Uyut Desert. Despite their search, they find nothing—not even a trace of the meteorite. What could have possibly happened there? This is a science fiction novel that incorporates a hypothesis to solve Earth's environmental issues.<br/><br/>Author | EUNJOLEE, Jeongbin Park<br/><br/>Editor | EUNJOLEE, Jeongbin Park<br/><br/>Cover Design | EUNJOLEE<br/><br/>Illustrations | EUNJOLEE<br/><br/>Publisher | EUNJOLEE<br/><br/>Date of Publication | May 3, 2024<br/><br/>Price | 6 USD<br/><br/>#SF #SF소설 #과학 #소설 #환경 #외계인 #모험
 ---
