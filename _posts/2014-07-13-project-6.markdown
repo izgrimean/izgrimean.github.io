@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 6
-title1: New Book 4
-title2: Organizing Organic Chemistry Basics
-date: 2014-07-15
+title1: New Book 6
+title2: Organizing Organic Chemistry Biochemistry Reactions
+date: 2014-07-12
 img: book6.jpeg
 alt: image-alt
 project-date: June 2024
