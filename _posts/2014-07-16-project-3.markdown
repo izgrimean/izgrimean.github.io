@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 3
+title1: New Book 3
+title2: 통째로 생물학 거시적 이해편
 date: 2014-07-16
 img: book3.jpeg
 alt: image-alt
-project-date: April 2014
+project-date: June 2024
 client: Readers
 category: E-book
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 이 책은 생물학을 거시적으로 조망하여 기초부터 응용까지 폭넓게 다루고 있다. 생명의 복잡성과 그 작동 원리를 이해할 수 있도록 돕고자 한다. 진화론, 생태학 등을 포괄한 다양한 주제와 개념을 통해 생물학을 심도 있게 다루고 있다.<br/><br/>또한, 학생, 연구자, 생물학에 관심 있는 일반인 모두에게 유익한 자료로서 제공되고자 한다. 특히 생물학이 현대 과학과 의학에 어떻게 기여하고 있는지에 대한 이해를 높이는 데 도움이 될 것이다.<br/><br/>생물학의 경이로움을 느끼며, 생명과학의 기초부터 고급 개념까지의 지식을 이해할 수 있도록 구성되어 있다. 생명의 복잡성과 아름다움을 거시적인 시각에서 탐구하는 이 여정에, 여러분들이 함께 하시길 바란다.<br/><br/>저자 | 박정빈, 박서혜, 김남영<br/><br/>편집 | 박서혜, 김남영<br/><br/>표지 디자인 | 이은조<br/><br/>펴낸이 | 이은조<br/><br/>발행일 | 2024년 6월 3일<br/><br/>가격 | 20,000원<br/><br/>#과학 #생물 #생물학 #생리학 #진화 #실험 #이론
 ---
