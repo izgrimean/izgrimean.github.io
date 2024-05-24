@@ -2,7 +2,6 @@
 title: Book 1
 permalink: /book1/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
