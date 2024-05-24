@@ -41,14 +41,16 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/bagjeon61147972
-  - title: facebook
-    url: 
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/izgrimean/izgrimean.github.io
+  #
+  #- title: facebook
+  #  url: 
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  
 
 # Postal address (add as many lines as necessary)
 address:
