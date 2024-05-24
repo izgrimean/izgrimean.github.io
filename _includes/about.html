@@ -67,6 +67,21 @@
         color: #333;
         text-decoration: none;
       }
+
+      table {
+          border-collapse: separate; /* 테두리가 겹치지 않도록 설정 */
+          border-spacing: 0; /* 셀 사이의 간격을 없애기 위해 설정 */
+          border-radius: 10px; /* 모서리 둥글게 설정 */
+          overflow: hidden; /* 둥근 모서리 밖의 내용이 보이지 않도록 처리 */
+        }
+      
+        table, th, td {
+          border: 1px solid #ccc; /* 테이블과 셀에 경계선을 추가 */
+        }
+      
+        th, td {
+          padding: 10px; /* 셀 내부의 패딩을 추가 */
+        }
     </style>
     <script>
       function toggleImagesFor(id) {
@@ -81,6 +96,7 @@
     
     <details>
 <summary>작가 알아보기</summary>
+<br/>
 <table style="width: 100%; border-collapse: collapse;">
   <tr style="background-color: #faf8de;">
     <td style="padding: 10px; text-align: center;vertical-align: top;">
@@ -90,7 +106,7 @@
       <strong>이름/필명</strong> ｜ 이은조 <br/>
       <strong>소개</strong> ｜ 서울종합예술실용학교에서 디자인예술계열 시각디자인을 전공하며 학부 과정을 졸업했고, 그 이후에 일본의 교토예술대학교 대학원에서 만화를 연구하고 석사과정을 졸업했다. 글과 그림이 가지는 다양한 의미를 책이라는 매개체를 통해 구현하고자 한다. <br/>
       <strong>Instagram</strong> ｜ @pnueoje <br/>
-      <strong class="book-toggle" onclick="toggleImagesFor('bookImages1')">참여한 책</strong><br/>
+      <strong class="book-toggle" onclick="toggleImagesFor('bookImages1')">참여한 책 살펴보기</strong><br/>
       <div class="image-container" style="text-align: left;" id="bookImages1">
         <a rel="noopener" href="https://nate9389.tistory.com/315" style="text-decoration: none;">
           <img src="/img/yuha.jpeg" alt="Profile Image" style="width: 1000px; height: auto;">
@@ -110,7 +126,7 @@
       <strong>이름/필명</strong> ｜ 박정빈 <br/>
       <strong>소개</strong> ｜ 서울대학교에서 공학 및 경제학을 공부하였다. 그 이후에 서울대학원 석사를 졸업하고, 바이오택에서 근무하며 기술을 개발해 온 과학자이다. 그리고 더 넓은 세계로 나아가기 위한 도약을 준비 중이다. <br/>
       <strong>Email</strong> ｜ nate9389@gmail.com <br/>
-      <strong class="book-toggle" onclick="toggleImagesFor('bookImages2')">참여한 책</strong><br/>
+      <strong class="book-toggle" onclick="toggleImagesFor('bookImages2')">참여한 책 살펴보기</strong><br/>
       <div class="image-container" style="text-align: left;" id="bookImages2">
         <a rel="noopener" href="https://nate9389.tistory.com/315" style="text-decoration: none;">
           <img src="/img/yuha.jpeg" alt="Profile Image" style="width: 1000px; height: auto;">
