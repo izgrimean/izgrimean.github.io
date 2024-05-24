@@ -13,13 +13,23 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h2>{{ post.title }}</h2>
+            <!-- <h2>{{ post.title }}</h2> -->
+            {% if post.title1 %}
+            <h2>{{ post.title1 }}</h2>
+            {% endif %}
+            
             <!-- <hr class="star-primary"> (24.05.25) -->
             <p style = "text-align : center;"><img width="25%" src = "/img/line.png" alt ="Contact"> </p>
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
+            {% if post.title2 %}
+            <p style="font-size: 18px;"><b>{{ post.title2 }}</b></p>
+            {% endif %}
+
             {% if post.description %}
             <p style="font-size: 15px;">{{ post.description }}</p>
             {% endif %}
+
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
