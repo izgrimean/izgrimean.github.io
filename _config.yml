@@ -39,11 +39,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/bagjeon61147972
-  - title: github
-    url: https://github.com/izgrimean/izgrimean.github.io
-  #
+  - title: instagram
+    url: https://www.instagram.com/pnueoje/
+  #- title: github
+  #  url: https://github.com/izgrimean/izgrimean.github.io
+  #- title: twitter
+  #  url: https://twitter.com/bagjeon61147972
   #- title: facebook
   #  url: 
   #- title: stack-overflow
