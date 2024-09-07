@@ -4,7 +4,7 @@ modal-id: 4
 title1: Recommended Book 4
 title2: Organizing Organic Chemistry Basics
 date: 2014-07-15
-img: book4.jpeg
+img: organic1.jpeg
 alt: image-alt
 project-date: June 2024
 client: Readers
