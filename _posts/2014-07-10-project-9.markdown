@@ -3,7 +3,7 @@ layout: default
 modal-id: 9
 title1: Recommended Book 9
 title2: 유기화학 학습완전정복 분광학 예제
-date: 2014-07-14
+date: 2014-07-10
 img: book9.jpeg
 alt: image-alt
 project-date: July 2024
