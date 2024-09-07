@@ -4,7 +4,7 @@ modal-id: 6
 title1: Recommended Book 6
 title2: Organizing Organic Chemistry Biochemistry Reactions
 date: 2014-07-12
-img: book6.jpeg
+img: organic3.jpeg
 alt: image-alt
 project-date: June 2024
 client: Readers
