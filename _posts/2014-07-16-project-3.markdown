@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-title1: New Book 3
+title1: Recommended Book 3
 title2: 통째로 생물학 거시적 이해편
 date: 2014-07-16
 img: book3.jpeg
