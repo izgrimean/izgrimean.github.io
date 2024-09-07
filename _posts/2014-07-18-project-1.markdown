@@ -4,7 +4,7 @@ modal-id: 1
 title1: Recommended Book 1
 title2: 운석 사냥꾼 진유하 아쿠아 행성편
 date: 2024-03-29
-img: book1.jpeg
+img: jin_kor.jpeg
 alt: image-alt
 project-date: March 2024
 client: Readers
