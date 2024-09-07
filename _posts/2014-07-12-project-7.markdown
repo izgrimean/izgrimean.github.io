@@ -3,7 +3,7 @@ layout: default
 modal-id: 7
 title1: Recommended Book 7
 title2: 유기화학 학습완전정복 명명법 예제
-date: 2014-07-12
+date: 2014-07-11
 img: problem_nomenclature.jpeg
 alt: image-alt
 project-date: June 2024
