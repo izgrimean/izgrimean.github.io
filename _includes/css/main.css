@@ -171,6 +171,12 @@ header .intro-text .skills {
     border: 0;
 }
 
+/* 241114 newly added */
+.navbar-default .navbar-nav > li > a:hover {
+    color: #999; /* 회색으로 변경 */
+    background-color: transparent; /* 배경색이 있으면 제거 */
+}
+
 section {
     padding: 100px 0;
 }
