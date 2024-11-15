@@ -73,7 +73,6 @@ defaults:
     values:
       permalink: ""
 
-
 # I added (24.05.12)
 include:
   - _pages
