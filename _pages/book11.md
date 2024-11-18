@@ -33,8 +33,8 @@ permalink: /book11/
     margin: 10px 0;
   }
   .meta {
-    background-color: #eaf8f2;
-    border-left: 5px solid #27a69a;
+    background-color: #f3f3f3;
+    border-left: 5px solid #2d2d51;
     padding: 10px;
     margin-top: 20px;
   }
@@ -74,9 +74,9 @@ permalink: /book11/
   <p></p>
   <div class="meta">
     <strong>저자 |</strong> Bone<br>
-    <strong>편집 |</strong> 이은조<br>
     <strong>표지 디자인 |</strong> Bone<br>
-    <strong>발행일 |</strong> 2024년 9월 25일<br>
+    <strong>편집 |</strong> 이은조<br>
+    <strong>발행일 |</strong> 2024.09.25<br>
     <strong>가걱 |</strong> 3,500원
   </div>
   <div class="tags">
