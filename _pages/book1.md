@@ -34,7 +34,7 @@ permalink: /book1/
     margin-top: 20px;
     padding: 15px;
     background-color: #e2e2e2;
-    border-left: 5px solid #5c87b2;
+    border-left: 5px solid #2d2d51;
     font-size: 14px;
   }
   .book-meta strong {
@@ -61,11 +61,11 @@ permalink: /book1/
   <p>20XX년, 한국. 진유하는 운석을 채취해 파는 일을 하는 '운석 사냥꾼'이다. 어느 날, 운석이 떨어졌을 것이라는 신호음을 듣고 인공지능 비서 프리멀과 함께 우유트 사막으로 향한다.</p>
   <div class="book-meta">
     <strong>저자 |</strong> 이은조, 박정빈 <br>
-    <strong>편집 |</strong> 이은조, 박정빈 <br>
     <strong>표지 디자인 |</strong> 이은조 <br>
+    <strong>편집 |</strong> 이은조, 박정빈 <br>
     <strong>삽화 |</strong> 이은조 <br>
     <strong>펴낸이 |</strong> 이은조 <br>
-    <strong>발행일 |</strong> 2024년 3월 29일 <br>
+    <strong>발행일 |</strong> 2024.03.29 <br>
     <strong>가격 |</strong> 8,000원
   </div>
   <div>
