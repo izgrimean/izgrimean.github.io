@@ -33,8 +33,8 @@ permalink: /book9/
     margin: 10px 0;
   }
   .meta {
-    background-color: #eaf8f2;
-    border-left: 5px solid #27a69a;
+    background-color: #f3f3f3;
+    border-left: 5px solid #2d2d51;
     padding: 10px;
     margin-top: 20px;
   }
@@ -68,10 +68,10 @@ permalink: /book9/
   <p>이 책을 구매하신 독자분들께는 추가적인 혜택을 제공하고자 합니다. 책을 구매하신 후 영수증을 nate9389@gmail.com으로 보내주시면, 추가 강의 자료와 함께 다른 유기화학 단원의 다양한 문제 세트를 제공해 드릴 예정입니다. 이 책은 유기화학을 공부하는 학생, 교육자, 그리고 전문 연구자들에게 필수적인 참고 자료이며, 이성질체의 복잡한 세계를 효과적으로 탐색하고자 하는 모든 이들에게 귀중한 가이드가 될 것입니다.</p>
   <div class="meta">
     <strong>저자 |</strong> 박정빈<br>
-    <strong>편집 |</strong> 이은조, 박정빈<br>
     <strong>표지 디자인 |</strong> 이은조<br>
+    <strong>편집 |</strong> 이은조, 박정빈<br>
     <strong>펴낸이 |</strong> 이은조<br>
-    <strong>발행일 |</strong> 2024년 7월 1일<br>
+    <strong>발행일 |</strong> 2024.07.01<br>
     <strong>Price:</strong> 6,500원
   </div>
   <div class="tags">
