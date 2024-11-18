@@ -35,7 +35,7 @@ permalink: /book2/
     color: #34495e;
   }
   .meta {
-    background-color: #e8eaf6;
+    background-color: #f3f3f3;
     padding: 10px;
     border-left: 4px solid #2d2d51;
     font-size: 14px;
