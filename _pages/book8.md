@@ -33,8 +33,8 @@ permalink: /book8/
     margin: 10px 0;
   }
   .meta {
-    background-color: #eaf8f2;
-    border-left: 5px solid #27a69a;
+    background-color: #f3f3f3;
+    border-left: 5px solid #2d2d51;
     padding: 10px;
     margin-top: 20px;
   }
@@ -67,10 +67,10 @@ permalink: /book8/
   <p>마지막으로, 이 책을 구매하신 독자들께는 추가적인 혜택을 제공하고자 합니다. 책을 구매하신 후 영수증을 nate9389@gmail.com으로 보내주시면, 추가 강의 자료와 함께 10만 개의 명명법 예제를 포함한 다양한 문제 세트를 제공해 드릴 예정입니다. 이는 유기화학 명명법을 더 깊이 있게 학습하고자 하는 분들에게 큰 도움이 될 것입니다. 이와 같은 자료들을 통해 유기화학의 복잡한 개념들을 보다 쉽게 이해하고 활용할 수 있기를 바랍니다.</p>
   <div class="meta">
     <strong>저자 |</strong> 박정빈<br>
-    <strong>편집 |</strong> 이은조, 박정빈<br>
     <strong>표지 디자인 |</strong> 이은조<br>
+    <strong>편집 |</strong> 이은조, 박정빈<br>
     <strong>펴낸이 |</strong> 이은조<br>
-    <strong>발행일 |</strong> 2024년 6월 25일<br>
+    <strong>발행일 |</strong> 2024.06.25<br>
     <strong>가격 |</strong> 8,000원
   </div>
   <div class="tags">
