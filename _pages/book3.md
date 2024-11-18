@@ -32,8 +32,8 @@ permalink: /book3/
     margin: 10px 0;
   }
   .meta {
-    background-color: #ecf0f1;
-    border-left: 5px solid #27ae60;
+    background-color: #f3f3f3;
+    border-left: 5px solid #2d2d51;
     padding: 10px;
     margin-top: 20px;
   }
@@ -66,9 +66,9 @@ permalink: /book3/
   <p>생물학의 경이로움을 느끼며, 생명과학의 기초부터 고급 개념까지의 지식을 이해할 수 있도록 구성되어 있다. 생명의 복잡성과 아름다움을 거시적인 시각에서 탐구하는 이 여정에, 여러분들이 함께 하시길 바란다.</p>
   <div class="meta">
     <strong>저자 |</strong> 박정빈, 박서혜, 김남영<br>
-    <strong>편집 |</strong> 박서혜, 김남영<br>
     <strong>표지 디자인 |</strong> 이은조<br>
-    <strong>발행일 |</strong> 2024년 6월 3일<br>
+    <strong>편집 |</strong> 박서혜, 김남영<br>
+    <strong>발행일 |</strong> 2024.06.03<br>
     <strong>가격 |</strong> 20,000원
   </div>
   <div class="tags">
