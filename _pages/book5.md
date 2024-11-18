@@ -33,8 +33,8 @@ permalink: /book5/
     margin: 10px 0;
   }
   .meta {
-    background-color: #eaf8f2;
-    border-left: 5px solid #27a69a;
+    background-color: #f3f3f3;
+    border-left: 5px solid #2d2d51;
     padding: 10px;
     margin-top: 20px;
   }
@@ -67,10 +67,10 @@ permalink: /book5/
   <p>I opened a blog called “Jeongbin’s Study Room” to collect knowledge from many people. The enthusiasm for organic chemistry is still strong today, but a few years ago, it was significant, as organic chemistry was essential for various exams. Since studying organic chemistry in elementary, middle, and high school was rare, I anticipated a significant academic demand for organic chemistry. Therefore, since 2018, I have been sharing articles on organic chemistry on “Jeongbin’s Study Room” and communicating, correcting, and discussing with people. I have had many discussions online with medical professionals, pharmacists, lawyers, current teachers, and professors, among others. Now, as we welcome the new year 2024, I declare that the compilation of organic chemistry knowledge through collective intelligence is complete and I am publishing this book. I hope that this book can lower the barrier of organic chemistry as a field of study.</p>
   <div class="meta">
     <strong>Author:</strong> Jeongbin Park<br>
-    <strong>Editor:</strong> EUNJOLEE, Jeongbin Park<br>
     <strong>Cover Design:</strong> EUNJOLEE<br>
+    <strong>Editor:</strong> EUNJOLEE, Jeongbin Park<br>
     <strong>Publisher:</strong> EUNJOLEE<br>
-    <strong>Date of Publication:</strong> June 3, 2024<br>
+    <strong>Date of Publication:</strong> 2024.06.03<br>
     <strong>Price:</strong> 5,400 KRW
   </div>
   <div class="tags">
