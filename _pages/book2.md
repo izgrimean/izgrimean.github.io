@@ -37,7 +37,7 @@ permalink: /book2/
   .meta {
     background-color: #e8eaf6;
     padding: 10px;
-    border-left: 4px solid #3f51b5;
+    border-left: 4px solid #2d2d51;
     font-size: 14px;
     margin-bottom: 20px;
   }
@@ -70,11 +70,11 @@ permalink: /book2/
   <p>In the year 20XX in Korea, Yuha Jin is a ‘meteorite hunter’ who collects and sells meteorites. One day, after hearing a signal that a meteorite had fallen, Yuha and his AI assistant, Frimal, headed to the Uyut Desert. Despite their search, they find nothing—not even a trace of the meteorite. What could have possibly happened there? This is a science fiction novel that incorporates a hypothesis to solve Earth's environmental issues.</p>
   <div class="meta">
     <strong>Author:</strong> EUNJOLEE, Jeongbin Park<br>
-    <strong>Editor:</strong> EUNJOLEE, Jeongbin Park<br>
     <strong>Cover Design:</strong> EUNJOLEE<br>
+    <strong>Editor:</strong> EUNJOLEE, Jeongbin Park<br>
     <strong>Illustrations:</strong> EUNJOLEE<br>
     <strong>Publisher:</strong> EUNJOLEE<br>
-    <strong>Date of Publication:</strong> May 3, 2024<br>
+    <strong>Date of Publication:</strong> 2024.05.03<br>
     <strong>Price:</strong> 6 USD
   </div>
   <div class="tags">
