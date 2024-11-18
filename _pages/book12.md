@@ -33,8 +33,8 @@ permalink: /book12/
     margin: 10px 0;
   }
   .meta {
-    background-color: #eaf8f2;
-    border-left: 5px solid #27a69a;
+    background-color: #f3f3f3;
+    border-left: 5px solid #2d2d51;
     padding: 10px;
     margin-top: 20px;
   }
@@ -76,7 +76,7 @@ permalink: /book12/
     <strong>저자 |</strong> Bone<br>
     <strong>표지 디자인 |</strong> Bone<br>
     <strong>편집 |</strong> EUNJOLEE<br>
-    <strong>발행일 |</strong> 2024.10.7<br>
+    <strong>발행일 |</strong> 2024.10.07<br>
     <strong>가걱 |</strong> 3,500원
   </div>
   <div class="tags">
