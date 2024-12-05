@@ -74,7 +74,7 @@ permalink: /book3/
   <div class="tags">
     <span class="tag">#과학</span>
     <span class="tag">#생물</span>
-    <span the="tag">#생물학</span>
+    <span class="tag">#생물학</span>
     <span class="tag">#생리학</span>
     <span class="tag">#진화</span>
     <span class="tag">#실험</span>
