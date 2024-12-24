@@ -60,7 +60,7 @@ permalink: /book7/
 <div class="container">
   <h1>Organizing Organic Chemistry Applications</h1>
   <br/>
-  <img src="/img/organic3.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
+  <img src="/img/organic4.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
   <br/>
   <p>○ This book is available in English.</p>
   <p>This book describes fundamental concepts for studying organic chemistry. It covers chemical concepts that are commonly applied across the entire spectrum of organic chemistry, from general chemistry principles like chemical bonding and orbitals to physical properties, nomenclature, and stereochemistry. Drawing on the collective wisdom of the masses, it was possible to complete the category of organic chemistry, and it is believed that this created category is the most efficient way to learn organic chemistry concepts.</p>
