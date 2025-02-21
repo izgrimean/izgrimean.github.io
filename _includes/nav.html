@@ -59,10 +59,14 @@
   document.getElementById("lang-toggle").addEventListener("click", function() {
     let button = document.getElementById("lang-toggle");
     let navMenu = document.getElementById("nav-menu");
+    let headerText = document.getElementById("header-text");
     let isKor = button.innerText === "KOR";
 
     // 텍스트 변경
     button.innerText = isKor ? "ENG" : "KOR";
+    headerText.innerHTML = isKor 
+      ? "A world encountered by chance,<br/>savoring its meaning." 
+      : "우연히 마주친 세계,<br/>그곳의 의미를 향유합니다.";
 
     // 버튼 위치를 오른쪽 → 왼쪽으로 이동
     if (isKor) {
