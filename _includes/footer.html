@@ -57,9 +57,37 @@
   </div>
 </footer>
 
+<!-- 한영 변환 (25.02.21) -->
 <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
 <div class="scroll-top page-scroll visible-xs visible-sm" style="background-color: #2d2d51">
   <a class="btn btn-primary" href="#page-top">
     <i class="fa fa-chevron-up"></i>
   </a>
 </div>
+
+<script>
+  document.getElementById("lang-toggle").addEventListener("click", function() {
+    let button = document.getElementById("lang-toggle");
+    let navMenu = document.getElementById("nav-menu");
+    let headerText = document.getElementById("header-text");
+    let isKor = button.innerText === "KOR";
+
+    // 텍스트 변경
+    button.innerText = isKor ? "ENG" : "KOR";
+    headerText.innerHTML = isKor 
+      ? "A world encountered by chance,<br/>savoring its meaning." 
+      : "우연히 마주친 세계,<br/>그곳의 의미를 향유합니다.";
+
+    for (let i = 1; i <= 35; i++) {
+      document.getElementById("text-kr-" + i).style.display = isKor ? "none" : "block";
+      document.getElementById("text-en-" + i).style.display = isKor ? "block" : "none";
+    }
+    
+    // 버튼 위치를 오른쪽 → 왼쪽으로 이동
+    if (isKor) {
+      navMenu.insertBefore(button.parentElement, navMenu.firstChild); // 첫 번째 요소로 이동
+    } else {
+      navMenu.appendChild(button.parentElement); // 다시 오른쪽으로 이동
+    }
+  });
+</script>
