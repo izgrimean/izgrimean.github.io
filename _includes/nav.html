@@ -28,7 +28,7 @@
           <a href="#contact">Notice</a>
         </li>
         <li class="page-scroll">
-          <button id="lang-toggle" class="btn btn-primary navbar-btn">Kor / Eng</button>
+          <button id="lang-toggle" class="btn btn-toggle">KOR</button>
         </li>
       </ul>
     </div>
@@ -36,3 +36,39 @@
   </div>
   <!-- /.container-fluid -->
 </nav>
+
+<!-- 번역기 버튼 토글 (25.02.21) -->
+<style>
+  .btn-toggle {
+    background: #ffcc00;
+    color: #2d2d51;
+    font-weight: bold;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+  }
+
+  .btn-toggle:hover {
+    background: #ffaa00;
+    color: white;
+  }
+</style>
+
+<script>
+  document.getElementById("lang-toggle").addEventListener("click", function() {
+    let button = document.getElementById("lang-toggle");
+    let navMenu = document.getElementById("nav-menu");
+    let isKor = button.innerText === "KOR";
+
+    // 텍스트 변경
+    button.innerText = isKor ? "ENG" : "KOR";
+
+    // 버튼 위치를 오른쪽 → 왼쪽으로 이동
+    if (isKor) {
+      navMenu.insertBefore(button.parentElement, navMenu.firstChild); // 첫 번째 요소로 이동
+    } else {
+      navMenu.appendChild(button.parentElement); // 다시 오른쪽으로 이동
+    }
+  });
+</script>
