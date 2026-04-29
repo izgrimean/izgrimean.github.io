@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-title1: Recommended Book 3
+title1: Recommended Book
 title2: 통째로 생물학 거시적 이해편
 date: 2014-07-16
 img: bio_macro.jpeg
