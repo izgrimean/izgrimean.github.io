@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 8
-title1: Recommended Book 8
+title1: Recommended Book
 title2: 유기화학 학습완전정복 이성질체 예제
 date: 2014-07-11
 img: book8.jpeg
