@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 13
+title1: Recommended Book
+title2: Experiments Biology All Logic
+date: 2025-11-06
+img: 202604_4.jpeg
+alt: Experiments Biology All Logic 표지
+project-date: November 2025
+client: Readers
+category: E-book
+description: >
+  《Experiments Biology All Logic》은 생물학 시리즈의 여섯 번째 권으로, 새로운 생물학 지식이 어떻게 만들어지고 검증되는지를 실험 방법론의 관점에서 다루는 영어 eBook입니다. 저자는 2009년부터 다양한 생물학 지식을 수집하고 분류해 온 경험을 바탕으로, 생물학을 단편적인 사실의 모음이 아니라 분자, 세포, 조직, 기관, 개체군, 군집, 생태계, 진화로 이어지는 체계적인 지식 구조로 바라봅니다.<br/><br/>이 책은 생명현상을 이해하기 위한 실험적 접근에 초점을 맞추며, 화학 실험과 유기화학 실험을 시작으로 생물학 실험, 세포 실험, 미생물학 실험, 약리학, 의학, 치의학까지 폭넓은 영역을 연결합니다. 특히 아직 해결되지 않았거나 현재 연구 중인 생물학적 질문을 탐구하기 위해 어떤 실험적 사고와 방법이 필요한지를 이해하는 데 도움을 줍니다.<br/><br/>전체 목차는 Getting Started, General Chemistry Experiment, Organic Chemistry Experiment, Biology Experiment, Cell Experiment (1), Cell Experiment (2), Microbiology Experiment, Pharmacology, Medicine, Dentistry로 구성되어 있습니다. 생물학을 이론뿐 아니라 실험과 연구 방법의 흐름 속에서 이해하고 싶은 학생, 연구자, 과학 콘텐츠 독자에게 적합한 참고서입니다.<br/><br/>저자 ｜ Jeongbin Park, Seo Hye Park, Namyoung Kim<br/><br/>펴낸곳 ｜ 이즈그리민(izgrimean)<br/><br/>발행일 ｜ 2025년 11월 6일<br/><br/>형태 ｜ ePUB eBook, 약 6.7만 자<br/><br/>ISBN ｜ 9791199406230<br/><br/>가격 ｜ 3,300원<br/><br/>관련 키워드 ｜ 과학, 공학, 생물학, 실험생물학, 생물학 실험, 세포 실험, 미생물학, 약리학, 의학, 치의학
+---
