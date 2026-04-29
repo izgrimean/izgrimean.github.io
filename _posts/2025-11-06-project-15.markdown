@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 15
+title1: Recommended Book
+title2: Physiology Biology All Logic
+date: 2025-11-06
+img: 202604_6.jpeg
+alt: Physiology Biology All Logic 표지
+project-date: November 2025
+client: Readers
+category: E-book
+description: >
+  《Physiology Biology All Logic》은 생물학 시리즈의 네 번째 권으로, 수많은 세포들이 연결되어 하나의 개체를 이루는 과정에서 나타나는 복잡한 생리적 메커니즘을 다루는 영어 eBook입니다. 저자는 생물학 지식을 분자, 세포, 조직, 기관, 개체군, 군집, 생태계, 진화로 이어지는 체계 속에서 바라보며, 인체 생리학을 생물학적 지식 구조의 중요한 단계로 설명합니다.<br/><br/>이 책은 인간의 몸을 중심으로 순환계, 호흡계, 면역계, 소화계, 배설계, 감각계, 신경계, 내분비계, 근육계, 골격계 등 주요 기관계의 작동 원리를 폭넓게 다룹니다. 단순한 용어 암기보다 각 기관계가 어떻게 상호작용하며 생명현상을 유지하는지 이해하는 데 초점을 맞추고 있어, 생물학과 의생명과학을 공부하는 독자에게 유용한 참고서가 될 수 있습니다.<br/><br/>전체 목차는 Getting Started, Ch. 1: Systematic Level of Animals, Ch. 2: Circulatory System, Ch. 3: Respiratory System, Ch. 4: Immunology, Ch. 5: Digestive System, Ch. 6: Excretory System, Ch. 7: Sensory System, Ch. 8: Nervous System, Ch. 9: Endocrine System, Ch. 10: Muscular System, Ch. 11: Skeletal System으로 구성되어 있습니다. 인체 생리학의 주요 흐름을 체계적으로 정리하고 싶은 학생, 연구자, 과학 콘텐츠 독자에게 추천할 수 있는 책입니다.<br/><br/>저자 ｜ Jeongbin Park, Seo Hye Park, Namyoung Kim<br/><br/>펴낸곳 ｜ 이즈그리민(izgrimean)<br/><br/>발행일 ｜ 2025년 11월 6일<br/><br/>형태 ｜ ePUB eBook, 약 27.7만 자<br/><br/>ISBN ｜ 9791199406216<br/><br/>가격 ｜ 8,000원<br/><br/>관련 키워드 ｜ 과학, 공학, 생물학, 생리학, 인체생리학, 순환계, 호흡계, 면역학, 신경계, 내분비계, 근골격계
+---
