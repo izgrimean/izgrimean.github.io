@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title1: Recommended Book 2
+title1: Recommended Book
 title2: Meteorite Hunter Yuha Jin Aqua Planet Edition
 date: 2018-05-03
 img: jin_eng.jpeg
