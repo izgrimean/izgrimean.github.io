@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 10
-title1: Recommended Book 10
+title1: Recommended Book
 title2: 회로이론 종합개념세트
 date: 2025-03-12
 img: 202604_1.jpeg
