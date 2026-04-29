@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 11
-title1: Recommended Book 11
+title1: Recommended Book
 title2: Cell Biology All Logic
 date: 2025-08-27
 img: 202604_2.jpeg
