@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 22
+title1: Recommended Book
+title2: No Fluff, Just Stats 2
+date: 2025-08-26
+img: 202604_13.jpeg
+alt: No Fluff, Just Stats 2 표지
+project-date: August 2025
+client: Readers
+category: E-book
+description: >
+  《No Fluff, Just Stats 2》는 통계학의 핵심 개념을 불필요한 장식 없이 직접적으로 다루는 영어 eBook 시리즈의 두 번째 권입니다. 이 책은 통계학의 많은 문제가 결국 베이즈 정리로 되돌아간다는 관점에서 출발합니다. 관찰된 결과를 바탕으로 원인이나 원인의 확률분포를 추론하는 과정은 직관적이지 않지만, 베이즈 정리는 원인 자체의 통계적 성질과 원인에서 결과로 이어지는 확률적 관계를 함께 활용하여 이러한 문제를 다룰 수 있게 해줍니다.<br/><br/>책은 사람들이 보이는 행동으로부터 마음 상태를 추론하거나, 과거 데이터를 통해 현재와 미래를 예측하는 것처럼 결과로부터 원인을 추정해야 하는 다양한 상황을 통계적 사고로 바라봅니다. 더 복잡한 영역에서는 유전자 발현 데이터로 염색체 이상을 추정하거나, 입자물리 실험 결과로부터 아원자 입자의 존재를 추론하는 문제까지 연결해 설명합니다.<br/><br/>전체 목차는 Getting Started, Chapter 11, Chapter 12, Chapter 13, Chapter 14, Chapter 14-1, Chapter 14-2, Chapter 14-3, Chapter 14-4, Chapter 14-5, Chapter 14-6, Chapter 14-7, Chapter 14-8, Chapter 14-9, Chapter 14-10, Chapter 15, Chapter 16, Chapter 17, Chapter 18, Chapter 19, Chapter 20, Copyright Page로 구성되어 있습니다. 통계학, 베이즈 추론, 확률적 사고를 더 깊게 이어서 공부하고 싶은 학생, 연구자, 데이터 분석 독자에게 추천할 수 있는 책입니다.<br/><br/>저자 ｜ Jeongbin Park<br/><br/>펴낸곳 ｜ 이즈그리민(izgrimean)<br/><br/>발행일 ｜ 2025년 8월 26일<br/><br/>형태 ｜ ePUB eBook, 약 14.2만 자<br/><br/>ISBN ｜ 9791198883971<br/><br/>가격 ｜ 7,500원<br/><br/>관련 키워드 ｜ 과학, 공학, 수학, 통계학, 베이즈 정리, 베이즈 추론, 확률분포, 데이터 분석, 추론, 예측
+---
