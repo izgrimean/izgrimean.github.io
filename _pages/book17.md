@@ -54,7 +54,7 @@ p {
 
 # Molecular Biology All Logic
 
-![Profile Picture](/assets/images/molecular_bio.jpeg)
+<img src="/img/molecular_bio.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 이 책은 분자생물학을 중심으로 생물학 지식을 체계적으로 정리한 영어 도서이다. 저자가 오랜 기간 축적해 온 생물학적 지식을 바탕으로, 복잡하게 흩어진 개념들을 범주화하고 논리적으로 연결하여 분자생물학의 전체 흐름을 이해할 수 있도록 구성했다.
 
