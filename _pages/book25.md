@@ -3,10 +3,9 @@ title: Book 25
 permalink: /book25/
 ---
 
-이데아 글리치
 # 이데아 글리치
 
-![Profile Picture](idea_glitch.jpg)
+<img src="/img/idea_glitch.jpg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 태강은 대한민국의 최고 명문 대학교인 S대를 졸업한 엘리트다. 모든 것이 완벽해 보였던 그의 인생. 어찌 된 일인지 태강은 잘 다니던 직장을 그만두고 만다.
 
