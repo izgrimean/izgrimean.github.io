@@ -54,7 +54,7 @@ p {
 
 # 제대로 학습하는 인공지능 5급 기술고시 예제 200제
 
-![Profile Picture](/assets/images/ai.jpg)
+<img src="/img/ai.jpg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 이 책은 대한민국 5급 기술고시 인공지능 과목을 대비하기 위한 연습문제집으로, 시험 대비에 필요한 핵심 개념과 출제 흐름을 체계적으로 정리했다. 인공지능에 관심 있는 독자도 문제를 풀어가며 자연스럽게 개념을 익힐 수 있도록 구성했다.
 
