@@ -3,10 +3,9 @@ title: Book 19
 permalink: /book19/
 ---
 
-Physiology Biology All Logic
 # Physiology Biology All Logic
 
-![Profile Picture](physiology.jpeg)
+<img src="/img/physiology.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 ○ 이 책은 영어로 제작되었습니다.
 
