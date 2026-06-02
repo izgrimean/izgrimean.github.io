@@ -3,10 +3,9 @@ title: Book 20
 permalink: /book20/
 ---
 
-Evolution Biology All Logic
 # Evolution Biology All Logic
 
-![Profile Picture](evolution.jpeg)
+<img src="/img/evolution.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 ○ 이 책은 영어로 제작되었습니다.
 
