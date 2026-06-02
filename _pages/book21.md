@@ -3,10 +3,9 @@ title: Book 21
 permalink: /book21/
 ---
 
-Experiments Biology All Logic
 # Experiments Biology All Logic
 
-![Profile Picture](experiment_bio.jpeg)
+<img src="/img/experiment_bio.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 ○ 이 책은 영어로 제작되었습니다.
 
