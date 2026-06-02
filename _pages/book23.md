@@ -3,10 +3,9 @@ title: Book 23
 permalink: /book23/
 ---
 
-No Fluff, Just Stats 2
 # No Fluff, Just Stats 2
 
-![Profile Picture](stat_eng_2.jpeg)
+<img src="/img/stat_eng_2.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 ○ 이 책은 영어로 제작되었습니다.
 
