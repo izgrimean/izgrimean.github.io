@@ -3,10 +3,9 @@ title: Book 22
 permalink: /book22/
 ---
 
-유기화학 학습완전정복 물리화학적 성질 예제
 # 유기화학 학습완전정복 물리화학적 성질 예제
 
-![Profile Picture](physico.jpeg)
+<img src="/img/physico.jpeg" alt="Profile Picture" style="width: 150px; height: auto; border-radius: 50%;">
 
 본 도서는 pKa, 용해도, 분배계수(logP), 방향족성 판별, 쌍극자 모멘트 해석 등 유기·물리화학에서 빈번하게 다루는 물성 문제를 폭넓게 수록하고, 관련 이론과 풀이 전략을 체계적으로 정리한다. PEET, MEET/DEET, 변리사 유기화학, GRE Chemistry 등 주요 시험 유형을 참고·변형한 확인 문제와 함께 핵심 풀이를 제공하여 수험 학습에 직접적인 도움을 주는 것을 목표로 한다. 이를 통해 물성 문제를 단순 암기 중심의 영역이 아니라, 패턴을 찾고 논리적으로 접근하는 퍼즐형 문제로 이해하도록 돕는다.
 
