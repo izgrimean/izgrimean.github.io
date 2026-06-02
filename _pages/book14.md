@@ -54,7 +54,7 @@ p {
 
 # 알차게 읽는 위험물산업기사 스피드 총정리
 
-![Profile Picture](/assets/images/danger.jpeg)
+![Profile Picture](https://github.com/izgrimean/izgrimean.github.io/raw/main/img/danger.jpeg)
 
 이 책은 위험물산업기사 시험을 준비하는 학습자를 위한 핵심 정리형 입문서이다. 방대한 이론을 시험 기준에 맞춰 꼭 알아야 할 개념 중심으로 정리하고, 개념 확인용 필수 문제를 통해 이해를 단단히 다질 수 있도록 구성했다.
 
